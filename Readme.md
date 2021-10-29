@@ -16,3 +16,8 @@ Deployment
 Display
 * flask
 * vue
+
+Tools:
+rise: slides
+nbviewer: jupyter notebook extension 
+vscode-insider
